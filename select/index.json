@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "猛独が襲う",
+  "base_artist": "一二三",
+  "createdAt": "2025-12-07T01:20:30.203291Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "猛独が襲う",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/01_猛独が襲う_Mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "猛独が襲う",
+      "artist": "hifumi",
+      "has_synced": true,
+      "path": "select/02_猛独が襲う_hifumi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "猛独が襲う",
+      "artist": "SirHamnet",
+      "has_synced": false,
+      "path": "select/03_猛独が襲う_SirHamnet.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "猛独が襲う",
+      "artist": "一二三",
+      "has_synced": true,
+      "path": "select/04_猛独が襲う_一二三.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "猛独が襲う",
+      "artist": "一二三",
+      "has_synced": true,
+      "path": "select/05_猛独が襲う_一二三.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "猛独が襲う",
+      "artist": "Hifumi feat. Hatsune, Miku",
+      "has_synced": true,
+      "path": "select/06_猛独が襲う_Hifumi_feat._Hatsune,_Miku.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "猛独が襲う",
+      "artist": "一二三 feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/07_猛独が襲う_一二三_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "猛独が襲う",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/08_猛独が襲う_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "猛独が襲う",
+      "artist": "一二三",
+      "has_synced": false,
+      "path": "select/pl_01_猛独が襲う_一二三.txt"
+    }
+  ]
+}
